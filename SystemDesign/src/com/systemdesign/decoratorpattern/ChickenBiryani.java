@@ -1,4 +1,4 @@
-package com.systemdesign;
+package com.systemdesign.decoratorpattern;
 
 public class ChickenBiryani implements Biryani {
     @Override

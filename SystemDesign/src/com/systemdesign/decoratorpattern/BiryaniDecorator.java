@@ -1,4 +1,4 @@
-package com.systemdesign;
+package com.systemdesign.decoratorpattern;
 
 public abstract class BiryaniDecorator implements Biryani {
     protected Biryani biryani;

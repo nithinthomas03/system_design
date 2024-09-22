@@ -1,4 +1,4 @@
-package com.systemdesign;
+package com.systemdesign.decoratorpattern;
 
 public class HyderabadiBiryani extends BiryaniDecorator {
     public HyderabadiBiryani(Biryani biryani) {
